@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://landscaping-service-tampa-fl.netlify.app/sitemap.xml
